@@ -1,4 +1,16 @@
-### Hi there 👋
+   
+```diff
+
+class AboutMe {
+    val firstName = "Martin"
+    val lastName = "Kiperszmid"
+    val linkedin = "https://www.linkedin.com/in/DevMartinKiperszmid/"
+-   val experienceYears = 3
++   val experienceYears = 4
+    val role = "Android Engineer"
+}
+
+```
 
 <!--
 **MKiperszmid/MKiperszmid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
